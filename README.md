@@ -1,2 +1,2 @@
 # calculator
-using html-css
+using html-css-python-javascript
